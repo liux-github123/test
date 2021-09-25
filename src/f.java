@@ -15,5 +15,6 @@ public class f {
         System.out.println("test3");
         System.out.println("test3");
         System.out.println("test3");
+        System.out.println("hello");
     }
 }
