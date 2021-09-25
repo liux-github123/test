@@ -12,5 +12,8 @@ public class f {
         String mergedString = strings.stream().filter(string -> !string.isEmpty()).collect(Collectors.joining(", "));
         System.out.println("合并字符串: " + mergedString);
         System.out.println("test2");
+        System.out.println("test3");
+        System.out.println("test3");
+        System.out.println("test3");
     }
 }
